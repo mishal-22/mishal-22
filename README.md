@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/2WEDKSId23C2oQ1Bpbg0uPByvnw44Qw8i8MBKyWIerc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishal-22&label=Profile%20views&color=0e75b6&style=flat" alt="mishal-22" /> </p>
 
-- 🔭 Currently working as a**Software Developer** in ECS fin Tech
+- 🔭 Currently working as a **Software Developer** in ECS fin Tech
 
 - 👯 I’m looking to collaborate on **innovative solutions**
 
